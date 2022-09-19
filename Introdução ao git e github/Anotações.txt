@@ -1,0 +1,5 @@
+link para download do git: https://git-scm.com/download/win
+anotações sobre o git
+- anotação
+- anotação
+- anotação
